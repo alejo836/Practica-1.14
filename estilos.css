@@ -1,5 +1,5 @@
 body {
-   background-color: wheat;
+   background-color: rgb(253, 233, 196);
    color: darkred; 
 }
 section.carta{
@@ -19,4 +19,10 @@ p {
 }
 p.primero {
    border-bottom: red 3px 
+}
+li.negro{
+    color: black;
+}
+li {
+    color: rgba(241, 151, 15, 0.726);
 }
