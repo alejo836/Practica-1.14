@@ -1,0 +1,22 @@
+body {
+   background-color: wheat;
+   color: darkred; 
+}
+section.carta{
+    text-align: left;
+}
+section.cafe {
+    text-align: center;
+}
+section.contacto {
+    text-align: right;
+}
+h1 {
+    text-align: center;
+}
+p {
+    color: brown;
+}
+p.primero {
+   border-bottom: red 3px 
+}
